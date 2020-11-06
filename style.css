@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.greet {
+    text-align: center;
+    color: #001533;
+}
+
+.img-class {
+    max-width: 500px;
+}
+
+.img-container {
+    margin-bottom: 50px;
+}
